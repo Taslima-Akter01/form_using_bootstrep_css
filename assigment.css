@@ -1,0 +1,24 @@
+.container{
+    background-color: rgb(232, 236, 235);
+    margin: 50px;
+    padding: 50px;
+   
+}
+body{
+    background-image: url(cover\ pic.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+footer{
+    text-align: center;
+}
+.fa-brands{
+    font-size: 50px;
+}
+h2{
+    font-style: italic;
+}
+img{
+    image-resolution: 100px;
+}
